@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student 1 | IETP Group 60</title>
+</head>
+<body>
+
+<h1>Student 1 Name</h1>
+<p><b>Role:</b> Project Leader</p>
+
+<h2>Responsibilities</h2>
+<ul>
+  <li>Group coordination</li>
+  <li>Task assignment</li>
+  <li>Final submission</li>
+</ul>
+
+<h2>Contributions</h2>
+<p>
+Led project planning, ensured deadlines, and coordinated group meetings.
+</p>
+
+<h2>Skills</h2>
+<ul>
+  <li>Project management</li>
+  <li>Communication</li>
+</ul>
+
+<a href="index.html">← Back to Group Page</a>
+
+</body>
+</html>
